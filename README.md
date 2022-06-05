@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Udehlee
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning HTML/CSS.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me ...
 
