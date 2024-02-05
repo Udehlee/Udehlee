@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm an emerging software developer<br>📚 I'm currently learning the Go programming language<br>>🎲 Fun fact: Aside from coding, I love playing basketball  🥳 <br>📡Committed to continous exploration and learning </p>
+<p align="left">✨ I'm an emerging software developer<br><br>📚 I'm currently learning the Go programming language<br><br>🎲 Fun fact: Aside from coding, I love playing basketball  🥳 <br><br>📡Committed to continous exploration and learning </p>
 
 ###
 
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/go-original.svg" height="30" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/golang-original.svg" height="30" alt="go logo"  />
   <img width="12" />
 </div>
 
