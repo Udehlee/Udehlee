@@ -1,5 +1,8 @@
 
-<h1 align="left" style="background-color: #4682b4; color: white;">Hi there,👋 I’m Uehlee</h1>
+<div style="background-color:#4682b4; color: white; padding: 20px; border-radius: 10px; text-align: center;">
+  <h1>Hi there,👋 I'm Udehlee</h1>
+
+</div>
 
 
 ###
