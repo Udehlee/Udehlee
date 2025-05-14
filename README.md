@@ -1,38 +1,8 @@
-
-<div style="background-color:#4682b4; color: white; padding: 20px; border-radius: 10px; text-align: center;">
-  <h1>Hi there,👋 I'm Udehlee</h1>
-
-</div>
+# 💫 About Me:
+I'm a passionate and curious developer who is currently learning and building projects all the way. I have a growing interest in designing scalable systems and containerized applications that can run efficiently across different environments. Whether it’s working on backend logic or structuring clean APIs, I enjoy the process of turning ideas into real-world solutions.<br><br>My focus right now is on understanding concepts and applying them across various tools and environments. As I continue to learn, I aim to contribute to projects and improve my skills through hands-on experience.
 
 
-###
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I'm an emerging software developer<br><br>📚 I'm currently learning the Go programming language<br><br>🎲 Fun fact: Aside from coding, I love playing basketball  🥳 <br><br>📡Committed to continous exploration and learning </p>
-
-###
-
-<h2 align="left">Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-</div>
-
-
-<!---
-Udehlee/Udehlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
