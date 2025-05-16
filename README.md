@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate and curious developer who is currently learning and building projects all the way. I have a growing interest in designing scalable systems and containerized applications that can run efficiently across different environments. Whether it’s working on backend logic or structuring clean APIs, I enjoy the process of turning ideas into real-world solutions.<br><br>My focus right now is on understanding concepts and applying them across various tools and environments. As I continue to learn, I aim to contribute to projects and improve my skills through hands-on experience.
+I'm a passionate and curious developer who is currently learning and building projects all the way. I have a growing interest in designing scalable systems and containerized applications that can run efficiently across different environments. I like working on backend logic and designing clear APIs.<br><br>My focus right now is on understanding concepts and applying them across various tools and environments. As I continue to learn, I aim to contribute to projects and improve my skills through hands-on experience.
 
 
 # 💻 Tech Stack:
