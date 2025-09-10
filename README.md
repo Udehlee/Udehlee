@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a passionate and curious developer with a growing interest in designing scalable systems and containerized applications that can run efficiently across different environments. I like working on backend logic and designing APIs.
+### Hi there , I'm Udeh👋
+I'm a passionate and curious developer with a growing interest in designing scalable systems. I like working on backend logic and designing APIs.
 
 
 # 💻 Tech Stack:
