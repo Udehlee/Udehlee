@@ -1,6 +1,6 @@
 
 ### Hi , I'm Udeh👋
-Full-Stack Developer | Commerce and Real-time Systems
+**Full-Stack Developer | Commerce and Real-time Systems**
 
 I’m a software engineer focused on building scalable, and user-focused application, with an interest in backend engineering, event-driven systems and system architecture.
 
