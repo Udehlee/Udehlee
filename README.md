@@ -1,8 +1,8 @@
 
 ### Hi , I'm Udeh👋
 **software engineer**
-I’m a software engineer specializing in full-stack architecture, backend systems and AI-powered infrastructure.
 
+I’m a software engineer specializing in full-stack architecture, backend systems and AI-powered infrastructure.
 - my portfolio at your https://portfolio-udehlee.vercel.app/
 - I sometimes write articles at https://medium.com/@ritzeepita
 ### Technologies 
